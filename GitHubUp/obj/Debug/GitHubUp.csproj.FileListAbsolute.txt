@@ -1,0 +1,7 @@
+C:\Users\john\source\repos\GitHubUp\GitHubUp\bin\Debug\GitHubUp.exe.config
+C:\Users\john\source\repos\GitHubUp\GitHubUp\bin\Debug\GitHubUp.exe
+C:\Users\john\source\repos\GitHubUp\GitHubUp\bin\Debug\GitHubUp.pdb
+C:\Users\john\source\repos\GitHubUp\GitHubUp\obj\Debug\GitHubUp.csprojAssemblyReference.cache
+C:\Users\john\source\repos\GitHubUp\GitHubUp\obj\Debug\GitHubUp.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\GitHubUp\GitHubUp\obj\Debug\GitHubUp.exe
+C:\Users\john\source\repos\GitHubUp\GitHubUp\obj\Debug\GitHubUp.pdb
